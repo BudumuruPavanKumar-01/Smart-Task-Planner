@@ -12,7 +12,7 @@ import {
   Goal,
   Task,
 } from "./types";
-// import { v4 as uuidv4 } from "uuid";
+import { v4 as uuidv4 } from "uuid";
 
 // Load environment variables
 dotenv.config();
